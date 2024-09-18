@@ -12,3 +12,5 @@ animations that you can use in your code. There is also an option for you to cre
 # September 12, 2024
 For you: Your instructions were very clear to me and nothing was confusing.
 For me: I did not encounter any challenges while following the steps, nor did i miss anything.
+# September 18, 2024
+This is a free week.
