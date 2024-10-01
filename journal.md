@@ -28,3 +28,5 @@ You want to be as detailed as possible when you're coding. If you miss steps or 
 Why is it important to develop good habits of attention to detail early in your coding journey?
 
 It is important to develop good habits; so that your code will be more accurate in the future. If you are constantly inaccurate when you're programming, then youll get used to it. Eventually this will turn into a bad habit and may be hard to stop. This is why it is important to develop the habit of being detailed when coding.
+# September 30, 2024
+One of my daily tasks in my routine is going on my phone. I use multiple different apps on my phone that each have different functions. Each one of these apps envolves computer science. This is because they each have their own programming to do these tasks. My day would be very different without my phone, since I listen to music a lot.
