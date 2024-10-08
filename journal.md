@@ -30,3 +30,16 @@ Why is it important to develop good habits of attention to detail early in your 
 It is important to develop good habits; so that your code will be more accurate in the future. If you are constantly inaccurate when you're programming, then youll get used to it. Eventually this will turn into a bad habit and may be hard to stop. This is why it is important to develop the habit of being detailed when coding.
 # September 30, 2024
 One of my daily tasks in my routine is going on my phone. I use multiple different apps on my phone that each have different functions. Each one of these apps envolves computer science. This is because they each have their own programming to do these tasks. My day would be very different without my phone, since I listen to music a lot.
+# October 8, 2024
+Job Title: What is the job or career path you researched?
+NASA software engineer
+Job Description: What are the main responsibilities or tasks for this role?
+To build secure software applications that power NASA's spacecraft.
+Skills Required: What programming languages, tools, or skills are important for this position?
+Fortran
+Education and Experience: What level of education or experience is typically needed for this role?
+Master's degree
+Career Growth: What opportunities for growth or advancement are available in this career?
+You get better at programming.
+Reflection: How does this job align with your interests and goals in computer science?
+I really like space and want to work at NASA. It would help me get better at coding.
