@@ -54,3 +54,7 @@ You get better at programming.
 Reflection: How does this job align with your interests and goals in computer science?
 
 I really like space and want to work at NASA. It would help me get better at coding.
+# October 16, 2024
+Coding can imporve your problem solving skills since you are constantly trying to solve problems or mistakes in your code.
+Understanding code can help you in different fields since you have developed problem solving skills. Lots of different job fields also involve computers, so your skills in programming will translate to that specific field.
+Coding enhances your creativity in different ways. Coding is very diverse and you can create almost anything with programming. You can make things like video games, websites, apps, and other softwares. You can also make things do want you want in coding, like programing robots, vehicles, etc.
