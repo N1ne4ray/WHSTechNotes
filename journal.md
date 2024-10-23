@@ -60,6 +60,7 @@ Understanding code can help you in different fields since you have developed pro
 Coding enhances your creativity in different ways. Coding is very diverse and you can create almost anything with programming. You can make things like video games, websites, apps, and other softwares. You can also make things do want you want in coding, like programing robots, vehicles, etc.
 # October 21, 2024
 AI has several benefits, as well as risks.
+
 One of the benefits of AI is productivity. When using AI, we get things done a lot faster. This is because it is reducing the mistakes humans make. AI also makes things more effient, doing things faster than we would. AI is also customizable to our preferences, making the outcome more unique.
 
 One of the risks of AI is unemployment. Since AI can do almost anything, a lot of people are losing their jobs. AI can perform tasks more effiently, with less errors than humans. So, this can cause workplaces to switch entirely to AI. Therefore, unemployment is one major risks of AI.  
