@@ -67,3 +67,8 @@ One of the risks of AI is unemployment. Since AI can do almost anything, a lot o
 # October 28, 2024
 Computer Science is used in the planning, management, and conduct of elections. One positve impact is being more time effient with the voting process. People can come in, vote on the computer, and their input is saved, making the whole voting process faster.
 A concern for technolgy in voting is security. Some voting platforms are vunerable to malware, which can make results unreliable.
+# November 4, 2024
+It is important to protect your personal information so that people will not steal your information. 
+To make sure you protect your information on social platform, look at the settings and turn your account to private. You can also look in your settings and see if that app shares your information with other platforms.
+When I was little I used to share my age on Roblox. Now I know that information is not needed to be shared.
+To do group online projects, make sure that the project is only shared with those selected friends, and that it is not public.
