@@ -74,3 +74,5 @@ When I was little I used to share my age on Roblox. Now I know that information 
 To do group online projects, make sure that the project is only shared with those selected friends, and that it is not public.
 # November 12, 2024
 An event that impacted our community was the presidential election. This event decides who will be the president of our country. Depending on the president, the country will change a certain way. Technology is involved in the election in many ways. The entire voting process involves computers. Voters use computers to input their vote; and the advertisement of the presidents involve technology. Advacements in technology could make the entire voting process faster in the future.
+# November 18, 2024
+The holiday that we are celebrating next week is Thanksgiving.
