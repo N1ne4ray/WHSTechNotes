@@ -76,3 +76,6 @@ To do group online projects, make sure that the project is only shared with thos
 An event that impacted our community was the presidential election. This event decides who will be the president of our country. Depending on the president, the country will change a certain way. Technology is involved in the election in many ways. The entire voting process involves computers. Voters use computers to input their vote; and the advertisement of the presidents involve technology. Advacements in technology could make the entire voting process faster in the future.
 # November 18, 2024
 The holiday that we are celebrating next week is Thanksgiving.
+# December 2, 2024
+A recent development in AI in large languagge models like Chatgpt. They are programed to process massive amounts of text data, allowing them to produce highly nuanced and contextually relevant responses. This impacts the society by giving more advanced answers, helping people learn more things and work more efficient. This concerns me because people can use the given answers on their work making them look smarter than they are. My field of interest is astronomy and AI can help by using the correct grammar when sharing the found results. Developers need to have some way to shut down the AI in case it backfires, causes more problems.
+Source: Google generative AI
