@@ -81,3 +81,5 @@ A recent development in AI in large languagge models like Chatgpt. They are prog
 Source: Google generative AI
 # December 9, 2024
 What "brain rot" means to me is being on social media too much. I think social media has had a negative impact on my well being since it is time consuming. The time I could've spent doing one of my hobbies, I wasted scrolling. "Slop" connects to my experience because i have seen a lot of sloppy things that are AI generated online. It is possible to have meaningful engagement in social media. You can achieve this by managing your time on social media and taking breaks.
+# December 16, 2024
+I am excited for winter break.
