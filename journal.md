@@ -83,5 +83,7 @@ Source: Google generative AI
 What "brain rot" means to me is being on social media too much. I think social media has had a negative impact on my well being since it is time consuming. The time I could've spent doing one of my hobbies, I wasted scrolling. "Slop" connects to my experience because i have seen a lot of sloppy things that are AI generated online. It is possible to have meaningful engagement in social media. You can achieve this by managing your time on social media and taking breaks.
 # December 16, 2024
 I am excited for winter break.
-# january 8, 2025
+# January 8, 2025
 Looking back on last semester, I enjoyed having independence doing my own work. Nothing needed to be improved last semester. I do not have any specific topics I want to learn about and I am open to exploring new things. I am not interested in pursuing any certifications related to this class.
+# January 13, 2025
+I think these AI tools we limit the workers since the AI is doing most of the work. The workers will have less work to do therefore, limiting them. To prepare myself for this changing job industry, I would look up what postions are avaliable for workers and prepare myself for those positions.
