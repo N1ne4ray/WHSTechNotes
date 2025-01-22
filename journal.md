@@ -87,3 +87,6 @@ I am excited for winter break.
 Looking back on last semester, I enjoyed having independence doing my own work. Nothing needed to be improved last semester. I do not have any specific topics I want to learn about and I am open to exploring new things. I am not interested in pursuing any certifications related to this class.
 # January 13, 2025
 I think these AI tools we limit the workers since the AI is doing most of the work. The workers will have less work to do therefore, limiting them. To prepare myself for this changing job industry, I would look up what postions are avaliable for workers and prepare myself for those positions.
+# January 21, 2025
+Government intervention impacts companies when they see a problem or risk with the company. Then the government can ban or close thethe company. Companies like Tiktok could prevent security problems by listing every thing they have access to. They can also disclose that they do not use personal information. 
+A policy I would add is to not use information from other apps. So the only information they would use is the information stored in the app. A lesson I learned is to be cautious when using information. The reason to be cautious is because using information can be percieved as stealing information.
