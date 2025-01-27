@@ -90,3 +90,10 @@ I think these AI tools we limit the workers since the AI is doing most of the wo
 # January 21, 2025
 Government intervention impacts companies when they see a problem or risk with the company. Then the government can ban or close thethe company. Companies like Tiktok could prevent security problems by listing every thing they have access to. They can also disclose that they do not use personal information. 
 A policy I would add is to not use information from other apps. So the only information they would use is the information stored in the app. A lesson I learned is to be cautious when using information. The reason to be cautious is because using information can be percieved as stealing information.
+# January 27, 2025
+| Name     | Car      | Mistake |
+| :---     | :------: |    ---: |
+| Jimmy    |  Civic   |         |
+| Kayla    |     |         |
+| Bart     |     |         |
+| Harrison | Forester | Oil cap |
