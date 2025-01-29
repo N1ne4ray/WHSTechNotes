@@ -93,7 +93,7 @@ A policy I would add is to not use information from other apps. So the only info
 # January 27, 2025
 | Name     | Car      | Mistake |
 | :---     | :------: |    ---: |
-| Jimmy    |  Civic   |         |
-| Kayla    |     |         |
-| Bart     |     |         |
+| Jimmy    |  Civic   | Drilled hole |
+| Kayla    |  Sierra   | Fixed wrong problem     |
+| Bart     |  Corolla   | Left stains        |
 | Harrison | Forester | Oil cap |
