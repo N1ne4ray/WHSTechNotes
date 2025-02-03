@@ -97,3 +97,7 @@ A policy I would add is to not use information from other apps. So the only info
 | Kayla    |  Sierra   | Fixed wrong problem     |
 | Bart     |  Corolla   | Left stains        |
 | Harrison | Forester | Oil cap |
+# February 3, 2025
+Technology can help aviation safety in many ways. Cybersecurity can help by preventing hackers trying to take control of the plane. If the pilot loses control of the plane than it can be dangerous to the passengers. It can also prevent hackers from jamming signals that can help with communication. Communication is very important in aviation since it prevents crashes so without it can be very dangerous.
+
+Predictive analytics can help aviation as well. With predictive analytics the pilot can know what route to take to the airport. It can also help by showing other flight's routes and helping that plane safety avoid the other plane. Automation can also help planes by autopilot. This saves the pilot's energy during long flights
