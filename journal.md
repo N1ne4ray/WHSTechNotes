@@ -107,3 +107,7 @@ If I was a software developer for an Nfl team, I would design an app to help the
  The app takes stats on all players, including yours. Since the app records stats of all players, it will help by knowing what players on your team can help defeat the opposing team. So when the other coach puts specific players on the field, you'd know who to send to win. If you lose a game the app will record the game and find out why you lost. It will give you tips and things to improve before the next game.  
 # February 18, 2025
 Last week, I learned the difference between Greek and Roman theatre. In Greek theatre, tragedies were really popular to honor the god and goddesses. In Roman theatre, comedies were really popular. This is because they were desparate to find entertainment. I learned this in my theatre class, and this was really intresting to me because this occured a very long time ago.
+# February 24, 2025
+Technology can help with slang in different ways. If someone has used slang while communicating with you, you may not know the meaning. There are websites you can use to look up the word. The website you use will tell you definitions of the word from other users. 
+
+Technology can also help you use slang. You can use AI to help use find out how to use a word you have in mind in a sentence. AI can also help you figure out what word you can use that will apply to your topic. Once you find out your word, AI can give you suggestions of different sentences to use.
