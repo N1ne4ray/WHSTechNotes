@@ -111,3 +111,8 @@ Last week, I learned the difference between Greek and Roman theatre. In Greek th
 Technology can help with slang in different ways. If someone has used slang while communicating with you, you may not know the meaning. There are websites you can use to look up the word. The website you use will tell you definitions of the word from other users. 
 
 Technology can also help you use slang. You can use AI to help use find out how to use a word you have in mind in a sentence. AI can also help you figure out what word you can use that will apply to your topic. Once you find out your word, AI can give you suggestions of different sentences to use.
+# March 4, 2025
+# March 17, 2025
+I used many different types of technology over spring break. I mainly used streaming and entertainment apps. I would also occasionally play games. These apps include: block blast, Pinterest, Youtube, Youtube tv, and Netflix. I used these apps to watch things like F1 races and different movies.
+
+These apps helped me stay entertained and busy over the break. The technology I can connect to what we learn in this class, are games like block blast. In coding you need to learn basic problem solving skills. These problem solving skills are used in the game Block Blast.
