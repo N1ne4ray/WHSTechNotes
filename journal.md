@@ -132,3 +132,5 @@ Right now I am mentally, physically, and emotionally tired.The most stressful pa
 Ai can help you with many things in preparation for test like STAAR. Ai can help you study a specific topic by giving a summary of all the aspects of it. Ai can also prepare you for a test since it can help you curate flashcards or it can give you a quiz on the certain topic. It may help also help you stay organized by giving a list of what to study first.
 
 The best Ai feature for me would be to give a summary of different topics. I would enter in a topic I struggle on or don't remember so I could get better at it. I would use this to refresh my memory on things like formulas and theorms. This would be very useful to me since I tend to be very forgetful. 
+# April 14, 2025
+This is a free week.
