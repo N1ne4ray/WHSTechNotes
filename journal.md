@@ -134,6 +134,13 @@ Ai can help you with many things in preparation for test like STAAR. Ai can help
 The best Ai feature for me would be to give a summary of different topics. I would enter in a topic I struggle on or don't remember so I could get better at it. I would use this to refresh my memory on things like formulas and theorms. This would be very useful to me since I tend to be very forgetful. 
 # April 14, 2025
 This is a free week.
+# April 28, 2025
+| Name      | Flavor | Occassion     | Price | 
+| :---        |    :----:   |    :----:    |          ---: |
+| Sally    | Chocolate      | Graduation          | $35.00 |
+| Michael  | Vanilla        | Farewell Party      | $37.00 |
+| Emma   | Carrot        | Birthday               | $39.00 |
+
 # May 5, 2025
 I think 100 people could win against a gorilla. This is because when in danger people can become creative. When using that creativity people can team up and defeat the gorilla. I think its very irresponsible for this to go viral. People may want to test it out and end up harming themselves. However they may find the answer they were looking for. There is a connection between entertainment and education. When someone watches something for entertainment they might find something they don't know. This is because it provokes curiousity leading to seeking education.
 # May 12, 2025
