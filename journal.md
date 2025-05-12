@@ -136,3 +136,7 @@ The best Ai feature for me would be to give a summary of different topics. I wou
 This is a free week.
 # May 5, 2025
 I think 100 people could win against a gorilla. This is because when in danger people can become creative. When using that creativity people can team up and defeat the gorilla. I think its very irresponsible for this to go viral. People may want to test it out and end up harming themselves. However they may find the answer they were looking for. There is a connection between entertainment and education. When someone watches something for entertainment they might find something they don't know. This is because it provokes curiousity leading to seeking education.
+# May 12, 2025
+The "Chromebook challenge" is a very dangerous and unethical trend. This trend is unethical because the student is putting themselves, others, and the device at risk. By stick something in the devices port, the student makes the device start smoking and may catch it on fire. Many may take this is just a joke Bit this trend can have serious consequences. 
+ 
+ This trend is dangerous because it may start a school fire, putting themselves and others at risk. By the device catching on fire they are damaging school property and will then have to pay for the chromebook. If the fire grows to be too dangerous they may have to face juvinial charges for setting the school on fire. The student may also get sued if harm is done to other children. A way to prevent this from happening is to put plastic protectors in the chromebooks ports.
