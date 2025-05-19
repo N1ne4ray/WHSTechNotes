@@ -147,3 +147,5 @@ I think 100 people could win against a gorilla. This is because when in danger p
 The "Chromebook challenge" is a very dangerous and unethical trend. This trend is unethical because the student is putting themselves, others, and the device at risk. By stick something in the devices port, the student makes the device start smoking and may catch it on fire. Many may take this is just a joke Bit this trend can have serious consequences. 
  
  This trend is dangerous because it may start a school fire, putting themselves and others at risk. By the device catching on fire they are damaging school property and will then have to pay for the chromebook. If the fire grows to be too dangerous they may have to face juvinial charges for setting the school on fire. The student may also get sued if harm is done to other children. A way to prevent this from happening is to put plastic protectors in the chromebooks ports.
+# May 19, 2025
+I am ready for summer.
