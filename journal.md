@@ -149,3 +149,5 @@ The "Chromebook challenge" is a very dangerous and unethical trend. This trend i
  This trend is dangerous because it may start a school fire, putting themselves and others at risk. By the device catching on fire they are damaging school property and will then have to pay for the chromebook. If the fire grows to be too dangerous they may have to face juvinial charges for setting the school on fire. The student may also get sued if harm is done to other children. A way to prevent this from happening is to put plastic protectors in the chromebooks ports.
 # May 19, 2025
 I am ready for summer.
+# September 2, 2025
+I do not feel very happy with the new phone law. It took some time to fully adjust to it since I would use my phone last year.This new phone law makes things very difficult for students and teachers and there are a lot more cons than there are pros. The pros are that it gives students and teachers less distractions and eliminates using AI on school work. The cons are that it takes away contact from parents and family, no more listening to music, no putting reminders in phones, no taking pictures of things teachers need you to remember.
