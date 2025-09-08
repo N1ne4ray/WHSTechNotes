@@ -151,3 +151,5 @@ The "Chromebook challenge" is a very dangerous and unethical trend. This trend i
 I am ready for summer.
 # September 2, 2025
 I do not feel very happy with the new phone law. It took some time to fully adjust to it since I would use my phone last year.This new phone law makes things very difficult for students and teachers and there are a lot more cons than there are pros. The pros are that it gives students and teachers less distractions and eliminates using AI on school work. The cons are that it takes away contact from parents and family, no more listening to music, no putting reminders in phones, no taking pictures of things teachers need you to remember.
+# September 8, 2025
+A career I am interested in is an astronomer. Astrononmers research and find things in space. Computer science is used in astronomy a lot. This is because they need high tech systems to be able to study things very far in space. Just to see a distant space object would need very advandced equipment. I know this becuase I have my own telescope at home that was very expensive and it still does not have amazing quality like NASA.
