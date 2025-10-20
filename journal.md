@@ -165,3 +165,9 @@ If I were in charge of the school I would add a few changes to the phone rules. 
 [Mini-Lesson](https://dwarfplanets-raylynj.my.canva.site/)
 
 My prompt was designed to create a detailed interactive mini lesson explaining dwarf planets. I asked to include the dwarf planets from our solar system as well as others and to make the mini lesson clear and understandable for the teen audience. Canva interpreted it as a website that shared facts about each dwarf planet. The interactive parts that worked the best were the clickable descriptions and the quiz at the end. Something I could have improved was clarity on the prompt. I wanted the sit eto share about other solar systems as well, but it was not carried out.
+# October 20, 2025
+| Name | Class | Seat |
+| :--- | :---: | :--- |
+| Franklin | Second | 91A |
+| Hardeep | Third | 61F |
+| Marla | First | 35B |
