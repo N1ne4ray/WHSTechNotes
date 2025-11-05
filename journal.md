@@ -177,3 +177,5 @@ My prompt was designed to create a detailed interactive mini lesson explaining d
 | Fiona  | Gado Gado  | Creme Brulee     |
 | Tobias | Shrimp Ceviche | French Apple Cake     |
 | Leanne | Beef Wellington     | Raspberry Tiramisu     |
+# November 5, 2025
+It is a big deal if companies like SNAP run out of funding. If SNAP is running out of funds, this means the company cannot properly function. This is nood good since SNAP helps people in need put food on the table. Technology could help by raising awareness, it could get the word out and people could help the company get the funding it needs. However there are challenges that come with this. Not everyone has access to internet or the topic might meet the wrong audience.  I would create a tool to show all people in need places where they can get the things they need.
