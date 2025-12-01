@@ -183,3 +183,5 @@ It is a big deal if companies like SNAP run out of funding. If SNAP is running o
 2025 is almost coming to an end. This year I have had many new experiences and learned so many things. One thing I have learned is how to improve my crocheting skills. I have learned how to make different things like clothes, bags, etc.; while also learning techniques like perfecting my tension while crocheting, how to adapt when changing hook and yarn size, and learning new stitches. Another thing I've learned is new violin techniques. I have learned new symbols in the music and how to play new genres.
 # November 17, 2025
 I am very much looking forward to Thanksgiving break.
+# December 1, 2025
+Drone programmers are very important. They are the reason drones are used for entertainment and theme and amusement parks. Programmers decide which color for each of the drones and in result creating a picture. Progammers also write the code for the drones' navigation to create the moving animation-like visual. Drone programming is very tedious and requires each drone to have the correct timing.
