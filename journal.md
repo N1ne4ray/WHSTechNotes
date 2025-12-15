@@ -187,3 +187,5 @@ I am very much looking forward to Thanksgiving break.
 Drone programmers are very important. They are the reason drones are used for entertainment and theme and amusement parks. Programmers decide which color for each of the drones and in result creating a picture. Progammers also write the code for the drones' navigation to create the moving animation-like visual. Drone programming is very tedious and requires each drone to have the correct timing.
 # December 8, 2025
 The Waymo violations against school buses are a serious problem. Children getting out of a bus are unpredictable so simply going around and stopped school bus can lead to hittimg a kid. Waymo cars are robotic self driving cars. Since these cars are robotic they can have errors. The cars may not have enough reaction time for when bus lights come on, or they might not recognize the signal they need to stop to. If these are the cases, I would improve reaction times and make sure that the car knows to stop at the bus's signal.
+# December 15, 2025
+My plans for winter break is to clean my room and bathroom, crochet gifts, go to my aunt's on Christmas, and go to church on new years.
