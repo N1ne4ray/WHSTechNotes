@@ -189,3 +189,5 @@ Drone programmers are very important. They are the reason drones are used for en
 The Waymo violations against school buses are a serious problem. Children getting out of a bus are unpredictable so simply going around and stopped school bus can lead to hittimg a kid. Waymo cars are robotic self driving cars. Since these cars are robotic they can have errors. The cars may not have enough reaction time for when bus lights come on, or they might not recognize the signal they need to stop to. If these are the cases, I would improve reaction times and make sure that the car knows to stop at the bus's signal.
 # December 15, 2025
 My plans for winter break is to clean my room and bathroom, crochet gifts, go to my aunt's on Christmas, and go to church on new years.
+# January 6, 2026
+I used technology a lot during the break. I mostly spent my break binge watching Boy Meets World. I also got a new ipad so I was playing a lot of games on that. I was mainly on my phone a lot watching videos and texting friends. 
