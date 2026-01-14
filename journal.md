@@ -191,3 +191,5 @@ The Waymo violations against school buses are a serious problem. Children gettin
 My plans for winter break is to clean my room and bathroom, crochet gifts, go to my aunt's on Christmas, and go to church on new years.
 # January 6, 2026
 I used technology a lot during the break. I mostly spent my break binge watching Boy Meets World. I also got a new ipad so I was playing a lot of games on that. I was mainly on my phone a lot watching videos and texting friends. 
+# January 12, 2026
+Autcraft was created to provide an online safe space. This is important because a lot of online paces can be unwelcoming and mean. Autcraft is monitored so it stops people from making vulgar, and harmful comments. However, if the monitors neglect their job users can be prone to cyberbullying. These guidlines helps protect users from being hurt emotionally.
