@@ -193,3 +193,5 @@ My plans for winter break is to clean my room and bathroom, crochet gifts, go to
 I used technology a lot during the break. I mostly spent my break binge watching Boy Meets World. I also got a new ipad so I was playing a lot of games on that. I was mainly on my phone a lot watching videos and texting friends. 
 # January 12, 2026
 Autcraft was created to provide an online safe space. This is important because a lot of online paces can be unwelcoming and mean. Autcraft is monitored so it stops people from making vulgar, and harmful comments. However, if the monitors neglect their job users can be prone to cyberbullying. These guidlines helps protect users from being hurt emotionally.
+# January 20, 2026
+One way technology can help create fairness is by socializing. This matters because it can provide awareness to others. Bringing awareness can help people try and correct their wrongs. Therefore, when technology is used socially it can help spread awareness to discrimination. In conclusion, once people connect socially they can realize their wrongs and correct it. 
