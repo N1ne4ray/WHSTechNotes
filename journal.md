@@ -207,6 +207,9 @@ One of the technologies used during the winter olympics was 3d tracking. 3d trac
 How I choose the bracket prediction were by the team's stats. None of the results really suprised me because I took no interest into the competition. Using data like stats helps people make more accurate predictions. A program can create an algorithyms based off of the stats. Some jobs might use the stats and create an algorthym for people to see more accurate predictions.
 # March 30, 2026
 Upsets in games happen for many reasons. One reason could be injuries, if a good player gets injured it could put the whole game in jeopardy. Another reason could be straegy, if a team has better strategy it could change the whole tide to the game. An example of an upset this season would be Iowa v. Nebraska, Iowa was ranked at number 9 while nebraska was number 4. Predictions from computers could be faulty because it is hard to predict who would get injured, and skill based on stats.
+# April 9, 2026
+The humans need to convince the robots to free them. The humans need to put together an arguement that they are worthy of freedom. These points need to be logical and factual.
+ First, they would need to find a way to communicate to the robots. Then they would share the plan. The people that programmed the robots would have set some guidelines, so they would find them and convince them according to these points. This solution would be successful because they are addressing the robots guidelines.
 # April 13, 2026
 No I do not think that our modern technology is reliable for long missions. When in space, you are constantly exposed to harmful cosmic rays, so you would need a space ship to protect you from those as well as the Earth's atmosphere does. We would also need fuel for long journeys, which is something we have limited amount of. Therefore our technology is not advanced enough for long journeys into space.
 # April 20, 2026
