@@ -216,3 +216,5 @@ No I do not think that our modern technology is reliable for long missions. When
 It matters whether music is made by a human or not. People enjoy music made by humans better because they enjoy going to things like concerts and giving awards. However this could not happen with an AI "artist". AI simply learns from other humans so it is not creative. There should be limits on AI songs in media because it spreads and people think its a human and then get disappointed.
 # April 27, 2026
 This week I watched the Boston v. Philadelphia basketball game. Technology had an influence on this because I watched it on a tv. The scoring for the game had electronic influence. Player's stats are mainly calculated by technology. The game's animations are also influenced by technology. 
+# May 6, 2026
+I believe that everything you give feedback on to AI it learns. When you spot an error in an answer and give feedback AI learns. It will use your feedback to make sure the error does not occur again. There are countless times when I use AI, like chatgpt, and find errors. When I find errors I give feedback and chatgpt fixes its answer. 
